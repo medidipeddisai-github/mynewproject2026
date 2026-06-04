@@ -3,4 +3,6 @@ Phone : 9515327184
 Gender : Male
 city:"hyd"
 state: Telangana
+area : miyapur
+
 area : kphb
