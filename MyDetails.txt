@@ -6,3 +6,4 @@ state: Telangana
 area : miyapur
 
 area : kphb
+country : india
